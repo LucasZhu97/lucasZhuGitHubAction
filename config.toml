@@ -42,4 +42,4 @@ pygmentsCodefences       = true
     text = "recent"
 
 [imaging]
-    quality = 60
+    quality = 20
