@@ -8,8 +8,7 @@ html {
   background-color: #0c1633;
   background-image: url("/81488027_xl-min.jpg");
   background-size: cover;
-  background-attachment: fixed;
-  font-family: "Didact Gothic", "sans serif";
+  font-family: "YuMincho Demibold", "Hiragino Kaku Gothic ProN";
   font-size: 16px; }
 
 body {
@@ -108,7 +107,7 @@ nav {
   position: relative;
   bottom: 0;
   padding: 1rem;
-  font-family: "Didact Gothic", "sans serif";
+  font-family: "YuMincho Demibold", "Hiragino Kaku Gothic ProN";
   font-size: 1rem;
   line-height: 1em;
   opacity: 0.8; }
@@ -128,7 +127,7 @@ nav {
 
 #title {
   margin-top: 3rem;
-  font-family: "Didact Gothic", "sans serif";
+  font-family: "YuMincho Demibold", "Hiragino Kaku Gothic ProN";
   font-size: 2rem;
   line-height: 3rem;
   margin-bottom: 2rem; }
