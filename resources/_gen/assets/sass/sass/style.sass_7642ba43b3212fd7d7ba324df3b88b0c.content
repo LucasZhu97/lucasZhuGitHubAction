@@ -6,8 +6,9 @@
 
 html {
   background-color: #0c1633;
-  background-image: url("/81488027_xl-min.jpg");
+  background-image: url("/background-m.jpg");
   background-size: cover;
+  background-attachment: fixed;
   font-family: "YuMincho Demibold", "Hiragino Kaku Gothic ProN";
   font-size: 16px; }
 
