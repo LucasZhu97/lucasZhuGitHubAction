@@ -20,11 +20,6 @@ pygmentsCodefences       = true
     title                = "Lucas Zhu"
     # rss                = ""
 
-[[params.videoBackground.sources]]
-    source  = ""
-    type    = "video/mp4"
-    poster  = "/81488027_xl.jpg"
-
 [[params.mainMenu]]
     link = "about"
     text = "about"
