@@ -25,16 +25,16 @@ pygmentsCodefences       = true
     text = "about"
 
 [[params.mainMenu]]
+    link = "recent"
+    text = "recent"
+
+[[params.mainMenu]]
     link = "post"
     text = "post"
 
 [[params.mainMenu]]
     link = "gallery"
     text = "gallery"
-
-[[params.mainMenu]]
-    link = "recent"
-    text = "recent"
 
 [imaging]
     quality = 75
