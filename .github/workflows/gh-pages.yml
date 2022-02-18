@@ -27,5 +27,5 @@ jobs:
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: lucaszhu97/lucaszhu97.github.io
-          publish_branch: master
+          publish_branch: hugoPage
           publish_dir: ./public
