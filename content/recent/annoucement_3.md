@@ -5,3 +5,4 @@ showDate: true
 ---
 
 Yes. After all these years of ups and downs, our relationship came to an end.
+![](/break-up.jpg)
