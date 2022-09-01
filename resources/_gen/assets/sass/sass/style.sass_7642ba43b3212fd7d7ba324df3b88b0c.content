@@ -70,8 +70,12 @@ nav {
 
 .wrap {
   margin: 0 auto;
-  width: 45%;
-  max-width: 64em; }
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-bottom: 30px;
+  width: 50%;
+  max-width: 64em;
+  background-color: rgba(2, 14, 49, 0.55); }
   @media screen and (max-width: 736px) {
     .wrap {
       width: 90%; } }
@@ -87,6 +91,7 @@ nav {
   bottom: 0; }
 
 .flex-container {
+  padding-block-end: initial;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -111,8 +116,7 @@ nav {
   padding: 1rem;
   font-family: "YuMincho Demibold", "Hiragino Kaku Gothic ProN";
   font-size: 1rem;
-  line-height: 1em;
-  opacity: 0.8; }
+  line-height: 1em; }
   .footer a {
     border-bottom: none;
     display: contents; }

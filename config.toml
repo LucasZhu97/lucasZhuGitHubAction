@@ -37,4 +37,4 @@ pygmentsCodefences       = true
     text = "gallery"
 
 [imaging]
-    quality = 75
+    quality = 100

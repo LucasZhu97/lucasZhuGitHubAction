@@ -1,10 +1,10 @@
 ---
-title: "Under Construction"
+title: "My. Best. Summer."
 type: "gallery"
 url: "/gallery"
 maxWidth: "800x"
 clickablePhotos: true
+keepAspectRatio: true
 ---
 
-Insert some dog pictures here. Dog, Dog, All Dogs.
-
+I took these photos while in Seattle and New York City at a time when I felt loved and blessed.
