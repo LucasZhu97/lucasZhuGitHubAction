@@ -48,14 +48,14 @@ p {
   line-height: 2.0; }
 
 a {
-  color: #efe2ba;
+  color: #efdeba;
   text-decoration: none;
   transition: 0.5s ease; }
   a:hover {
     color: #fff;
     font-style: none; }
   a:active {
-    color: #efe2ba; }
+    color: #efdeba; }
 
 hr {
   margin: 1rem 0;
@@ -73,9 +73,9 @@ nav {
   padding-left: 4%;
   padding-right: 4%;
   padding-bottom: 30px;
-  width: 50%;
+  width: 54%;
   max-width: 64em;
-  background-color: rgba(2, 14, 49, 0.55); }
+  background-color: rgba(2, 14, 49, 0.58); }
   @media screen and (max-width: 736px) {
     .wrap {
       width: 90%; } }
@@ -178,7 +178,7 @@ article {
     font-family: 'Source Code Pro', monospace;
     padding: 0.1rem;
     border-radius: 3px;
-    border: 1px solid #efe2ba; }
+    border: 1px solid #efdeba; }
   article img {
     width: 100%;
     max-width: 100%;
@@ -186,7 +186,7 @@ article {
     margin: 1rem auto;
     opacity: 1; }
   article blockquote {
-    background-color: #efe2ba;
+    background-color: #efdeba;
     color: #0c1633;
     padding: 2rem;
     margin: 2rem 1rem 2rem 1rem;
@@ -207,7 +207,7 @@ article {
     article table td, article table th {
       padding: 2px 5px;
       text-align: center;
-      border: 1px solid #efe2ba; }
+      border: 1px solid #efdeba; }
   article li {
     line-height: 2;
     padding-left: 0.4rem; }

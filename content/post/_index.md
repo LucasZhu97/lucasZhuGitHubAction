@@ -2,4 +2,4 @@
 title: "post"
 ---
 
-Welcome to my random thoughts and rants. Views my own.
+My random thoughts and rants are rendered here. Views my own.
